@@ -1,16 +1,18 @@
-## Hi there 👋
+<h2>☄️ Hey! I'm Emre Mert Yılmaz.</h2>
+<img align="right" src="https://media4.giphy.com/media/C5hL7OSWyACFW/giphy.gif?cid=790b76116db62c253a8e62c0cf908b88666ef1f5ca7c3a3c&rid=giphy.gif&ct=g" width="280" height="230"  />
 
-<!--
-**emremy/emremy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👾  I'm currently working with **Node.js, TypeScript and backend technologies.**
+- 🚀  Building scalable server-side solutions with Redis, SQL, and GCP.
+- 💻  Interested in system design and performance optimization.
+- 📫  How to reach me **emremycom@gmail.com**
 
-Here are some ideas to get you started:
+<h3 align="left">🌟 Public Projects:</h3>
+<p align="left">
+- <a href="https://pixelperfectresizer.com/" target="blank" rel="noopener">Pixel Perfect Resizer</a> - Image resizing tool<br>
+- <a href="https://play.google.com/store/apps/details?id=com.valunthwallettracking.app&pcampaignid=web_share" target="blank" rel="noopener">Wallet Tracking - Budget</a> - Personal finance management app
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/emre-mert-yilmaz/" target="blank" rel="noopener"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="emre-mert-yilmaz" height="30" width="30" /></a>
+</p>
