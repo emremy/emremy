@@ -10,7 +10,7 @@
 
 - <a href="https://pixelperfectresizer.com/" target="blank" rel="noopener">Pixel Perfect Resizer</a> - Image resizing tool<br>
 - <a href="https://play.google.com/store/apps/details?id=com.valunthwallettracking.app&pcampaignid=web_share" target="blank" rel="noopener">Wallet Tracking - Budget</a> - Personal finance management app
-- <a href="https://movention.com?redirect=github" target="blank" rel="noopener">Movention</a> - Generate videos with Ai
+- <a href="https://github.com/emremy/ColQL" target="blank" rel="noopener">ColQL</a> - In-memory query engine
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
