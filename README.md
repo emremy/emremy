@@ -9,7 +9,6 @@
 <h3 align="left">🌟 Public Projects:</h3>
 
 - <a href="https://pixelperfectresizer.com/" target="blank" rel="noopener">Pixel Perfect Resizer</a> - Image resizing tool<br>
-- <a href="https://davetlisiniz.co/" target="blank" rel="noopener">Davetlisiniz.co</a> - Online Invitation<br>
 - <a href="https://fontwhirl.com/" target="blank" rel="noopener">Font Whirl</a> - Font converter<br>
 - <a href="https://play.google.com/store/apps/details?id=com.valunthwallettracking.app&pcampaignid=web_share" target="blank" rel="noopener">Wallet Tracking - Budget</a> - Personal finance management app
 - <a href="https://github.com/emremy/ColQL" target="blank" rel="noopener">ColQL</a> - In-memory query engine
